@@ -1,0 +1,8 @@
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\bin\Debug\client.exe.config
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\bin\Debug\client.exe
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\bin\Debug\client.pdb
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\obj\Debug\client.Properties.Resources.resources
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\obj\Debug\client.csproj.GenerateResource.Cache
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\obj\Debug\client.exe
+G:\[B]CodeRuntimeLibrary\[E]GitHub\SignPress\SignPress\client\obj\Debug\client.pdb
